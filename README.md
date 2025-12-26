@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     This is <b>Trishit Majumdar</b>, a 3rd year undergraduate from <a href="http://sittechno.org/"> <b>Hooghly Engineering & Technology College</b>, West Bengal</a>. <br>
-    A budding <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Technological Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -99,7 +99,7 @@
 
 # 📖 I am currently reading:
 
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=194196205" alt="GoodReads reading" width="100%" /></a>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=194196205" alt="GoodReads reading"  width="100%" height="400" /></a>
 
 ###
 
