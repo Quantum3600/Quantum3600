@@ -77,8 +77,11 @@
   </div>
 </div>
 
-
-<img align='center' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+<div align="center">
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+<img src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
+</div>
 
 ###
 
