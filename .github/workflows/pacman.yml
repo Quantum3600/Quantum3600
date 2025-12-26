@@ -1,5 +1,10 @@
 name: Generate pacman animation
 
+concurrency: 
+  group: github-pages-deploy
+  cancel-in-progress: false  # Let the current job finish before starting a new one
+
+
 on:
   schedule: # execute every 12 hours
     - cron: "0 */12 * * *"
