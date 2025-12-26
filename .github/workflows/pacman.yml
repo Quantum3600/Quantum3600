@@ -1,6 +1,6 @@
 name: generate pacman game
 
-on:
+on: 
   schedule: # Run automatically every 24 hours
     - cron:  "0 */12 * * *"
   workflow_dispatch:  # Allows manual triggering
@@ -15,8 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
-    steps:
-      - name:  generate pacman-contribution-graph.svg
+    steps: 
+      # Checkout the repository first
+      - name:  Checkout repository
+        uses: actions/checkout@v3
+
+      - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,5 +31,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
