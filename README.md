@@ -58,7 +58,11 @@ Web and App Developer
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
