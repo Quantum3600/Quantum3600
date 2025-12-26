@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***Talking about Personal Stuffs:***
+ ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***Talking about Personal Stuffs:***
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="400">
 
@@ -60,7 +60,7 @@
 
 ###
 
-# 📊 GitHub Stats:
+<h1> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40px" alt="GitHub-Status"/> GitHub Stats: </h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
@@ -68,23 +68,24 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
 </picture>
 
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='300'>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum3600&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantum3600&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum3600&theme=aura_dark) 
-
-###
-
 
 
 ###
 
 # 🎵 My Music Taste:
 
-<div align="center">
+<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<div align="left">
   <a href="https://open.spotify.com/user/31sv2ux6rfii7e46pam36etrtd4m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sv2ux6rfii7e46pam36etrtd4m&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
 
 ###
 
@@ -104,14 +105,24 @@
 
 <img src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/snake.svg" alt="Snake animation" />
 
-###
+
+## 🔝 Top Contributed Repo:
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="right" height='280'>
+
+![](https://github-contributor-stats.vercel.app/api?username=Quantum3600&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+--- 
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 
 # ✍️ Get Motivated, Guys:
+
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Quantum3600&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -130,8 +141,12 @@
 
 
 ## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/trishit.me" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="100" width="400"></a>
-  
+
+<a align="center" href="https://www.buymeacoffee.com/trishit.me" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="100" width="400"></a>
+
+<h3 align="right">Show ❤️ by starring repositories you find good!</h3>
+
+<img src="https://imgur.com/rilHVxA.png"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
