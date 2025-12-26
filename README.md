@@ -68,12 +68,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
 </picture>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='300'>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum3600&theme=aura_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantum3600&theme=aura_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum3600&theme=aura_dark) 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum3600&theme=aura_dark">
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantum3600&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum3600&theme=aura_dark">
+  </div>
+</div>
 
+
+<img align='center' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 
 ###
 
