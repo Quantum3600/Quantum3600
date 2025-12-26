@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    This is Trishit Majumdar, a 3rd year undergraduate from <a href="http://sittechno.org/"> <b>Hooghly Engineering & Technology College</b>, West Bengal</a>. <br>
+    This is <b>Trishit Majumdar</b>, a 3rd year undergraduate from <a href="http://sittechno.org/"> <b>Hooghly Engineering & Technology College</b>, West Bengal</a>. <br>
     A budding <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Technological Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -18,9 +18,9 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="400">
 
 🔭 I’m an Engineering Student and a passionate Android Developer<br>🎓 CSE 27'<br>👯 I’m looking to collaborate on my Android Apps<br>🤝 I’m looking for help with publishing my apps to Play Store<br>🌱 I’m currently learning Kotlin Multi-platform and Kobweb<br><br>
 
@@ -53,16 +53,20 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+
+###
+
+# 📊 GitHub Stats:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-# 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum3600&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantum3600&theme=aura_dark) 
@@ -72,21 +76,9 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantum3600&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quantum3600&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
+# 🎵 My Music Taste:
 
 <div align="center">
   <a href="https://open.spotify.com/user/31sv2ux6rfii7e46pam36etrtd4m">
@@ -96,8 +88,9 @@
 
 ###
 
-<h3 align="left">I am currently reading:</h3>
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=194196205" alt="GoodReads reading" width="350" /></a>
+# 📖 I am currently reading:
+
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=194196205" alt="GoodReads reading" width="100%" /></a>
 
 ###
 
@@ -107,37 +100,23 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
+# 🐍 My Snake is Hungry 🥲
 
 <img src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantum3600&show_icons=true&locale=en&layout=compact" alt="quantum3600" /></p>
 
-### ✍️ Random Dev Quote
+# ✍️ Get Motivated, Guys:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Quantum3600&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Quantum3600&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/com.trishit.quantum360) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/com.trishit.quantum360) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trishit-majumdar-008344281) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/trishitmajumdar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Trishit18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trishitquantum360@gmail.com) 
+# 🌐 Connect with Me:
+
 
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
@@ -151,7 +130,7 @@
 
 
 ## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/trishit.me" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/trishit.me" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="100" width="400"></a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
