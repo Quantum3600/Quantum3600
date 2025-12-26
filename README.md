@@ -38,31 +38,25 @@ Hi There![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 ###
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum3600&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantum3600&theme=aura_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantum3600&theme=aura_dark) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
-</picture>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Quantum3600&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum3600&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
