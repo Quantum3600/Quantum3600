@@ -20,7 +20,7 @@
 
  ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***Talking about Personal Stuffs:***
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="350">
 
 🔭 I’m an Engineering Student and a passionate Android Developer<br>🎓 CSE 27'<br>👯 I’m looking to collaborate on my Android Apps<br>🤝 I’m looking for help with publishing my apps to Play Store<br>🌱 I’m currently learning Kotlin Multi-platform and Kobweb<br><br>
 
