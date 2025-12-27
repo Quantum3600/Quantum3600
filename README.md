@@ -111,7 +111,8 @@
 
 # 🐍 My Snake is Hungry 🥲
 
-<img src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Quantum3600/Quantum3600/output/snake-dark.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
